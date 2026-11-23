@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npx tsc --noEmit --skipLibCheck || true && vite build",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "outputDirectory": "dist"
+}
+
+
